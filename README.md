@@ -9,7 +9,7 @@ This project focuses on building a scalable **ETL pipeline** for analyzing Brazi
 - **Azure Databricks (Apache Spark)** → Large-scale data processing & transformation
 - **MongoDB** → Data enrichment
 - **Azure Synapse Analytics** → Optimized querying & analytics
-- **Power BI, Tableau, Microsoft Fabric** → Data visualization
+- **Power BI, Tableau, Microsoft Fabric** → Data visualizations
 
 ## 📊 Data Pipeline Architecture
 1. **Data Ingestion:**
